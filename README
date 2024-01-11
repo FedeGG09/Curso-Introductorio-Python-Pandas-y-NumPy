@@ -1,1 +1,18 @@
+Pandas y NumPy son dos bibliotecas fundamentales en el ecosistema de Python para el análisis de datos y la manipulación de arreglos numéricos. Aquí tienes una breve explicación de cada una:
 
+NumPy:
+
+Propósito: NumPy (Numerical Python) proporciona soporte para arreglos multidimensionales y matrices, junto con funciones matemáticas para realizar operaciones eficientes en estos arreglos.
+Características clave:
+Arreglos N-dimensionales: NumPy ofrece el objeto numpy.ndarray que representa arreglos multidimensionales, lo que facilita la manipulación eficiente de datos numéricos.
+Funciones matemáticas: Proporciona funciones vectorizadas para realizar operaciones matemáticas en arreglos, lo que mejora la eficiencia computacional.
+Indexación y selección: Permite acceder y manipular elementos en arreglos mediante indexación y selección avanzada.
+
+Pandas:
+
+Propósito: Pandas es una biblioteca que facilita la manipulación y análisis de datos estructurados a través de estructuras de datos como DataFrame y Series.
+Características clave:
+DataFrame: Es una estructura de datos bidimensional similar a una tabla de base de datos, con filas y columnas etiquetadas. Permite almacenar y manipular datos de manera tabular.
+Series: Es una estructura de datos unidimensional etiquetada que puede contener cualquier tipo de datos.
+Operaciones de datos: Facilita operaciones como la fusión de datos, la limpieza de datos faltantes y el filtrado de datos.
+Entrada/Salida de datos: Admite la carga y escritura de datos desde/hacia diversos formatos como CSV, Excel, SQL, etc.
